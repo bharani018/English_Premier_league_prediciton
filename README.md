@@ -80,3 +80,29 @@ ACTUAL PREMIER LEAGUE 2020-2021 POINTS TABLE
 
 
 <img width="282" alt="image" src="https://github.com/bharani018/English_Premier_league_prediciton/assets/114207030/483686b6-013e-4f09-aad4-b3b741d73f23">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EPL_WEBSCRAPPING
+
+Dataset Description: English Premier League Data
+
+This dataset contains information about matches, teams, and other relevant statistics from the English Premier League. The data was collected directly from the official English Premier League website using web scraping techniques and the BeautifulSoup library in Python. The dataset provides a comprehensive overview of various aspects of the Premier League, including match outcomes, team performance, player statistics, and more. It can be utilized for analysis, visualization, and machine learning projects related to football analytics and sports data science.
+
+
+
